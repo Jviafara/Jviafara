@@ -35,5 +35,5 @@ const aboutMe = {
 
 
 
-[website]: [https://souravdey777.github.io/Portfolio/](https://jesusviafara.netlify.app/)
+[website]: https://jesusviafara.netlify.app/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/](https://www.linkedin.com/in/jes%C3%BAs-viafara-8019b8245/)https://www.linkedin.com/in/jes%C3%BAs-viafara-8019b8245/
