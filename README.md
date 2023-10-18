@@ -6,10 +6,11 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Java],
+   code: [Javascript,Typescript HTML, CSS, Java],
    technologies: {
       frontEnd: {
          js: ["React"],
+         ts: ["NextJS]
          css: ["Tailwind", "MaterialUI", "Bootstrap"]
       },
       backEnd: {
