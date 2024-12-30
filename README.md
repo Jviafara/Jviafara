@@ -19,12 +19,12 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Electronic engineering last year student, open for job opportunities"],
 };
 ```
 
-- 🩺 I’m currently working on a clinic histories management site for indepedents doctors 
-- 🌱 I’m currently learning Oracle PL/SQL and AWS
+-  ☀️🛰️⚡ I’m currently working on a landing page and web store for a solar energy system provider in my city, that includes an solar calculator to give the user a
+-  aproximate designe an prize for the system needed given the requirements.
 
 ---
 ### Where You can find me:
