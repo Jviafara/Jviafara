@@ -23,8 +23,7 @@ const aboutMe = {
 };
 ```
 
--  ☀️🛰️⚡ I’m currently working on a landing page and web store for a solar energy system provider in my city, that includes an solar calculator to give the user a
--  aproximate designe an prize for the system needed given the requirements.
+-  ☀️🛰️⚡ I’m currently working on a landing page and web store for a solar energy system provider in my city, that includes an solar calculator to give the user a aproximate designe an prize for the system needed given the requirements.
 
 ---
 ### Where You can find me:
